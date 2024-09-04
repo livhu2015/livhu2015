@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on AI Fraud detection system <br>👯 I’m looking to collaborate on AWS, Java and Python <br>🤝 I’m looking for help with mobile app development<br>🌱 I’m currently learning Design modern infrastructure<br>💬 Ask me about DevOps best practices <br>⚡ 
+🔭 I’m currently working on Design modern infrastructure<br>💬 Ask me about DevOps best practices <br>⚡ 
 
 
 ## 🌐 Socials:
