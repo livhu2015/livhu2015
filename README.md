@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Design modern infrastructure<br>💬 Ask me about DevOps best practices <br>⚡ 
+🔭 I’m currently working on modern infrastructure<br>💬 Ask me about DevOps best practices <br>⚡ 
 
 
 ## 🌐 Socials:
